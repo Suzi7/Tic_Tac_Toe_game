@@ -1,6 +1,6 @@
 # Tic_Tac_Toe_game
 Tic Tac Toe game Simple Project 
-# Here's a summary of the steps you've outlined:
+# Here's a summary of the steps outlined:
 
 Design the game board as a 3x3 list of lists.
 Create a function to print the game board.
